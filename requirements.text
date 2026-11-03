@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+psutil
+requests
+pikepdf
+python-dotenv
+python-telegram-bot[job-queue]
+httpx
